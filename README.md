@@ -22,12 +22,12 @@ The data covers reported personal-injury road collisions on public roads in Grea
 
 The project is organized into six stages:
 
-1. **Data Understanding and Profiling** — Examine dataset structure, data types, missing values, duplicates, keys, and data granularity.
-2. **Data Cleaning** — Identify and handle data quality issues based on evidence and documented variable definitions.
-3. **Data Integration** — Integrate collision, vehicle, and casualty records while validating keys, relationships, and join cardinality.
-4. **Redundancy Analysis and Feature Selection** — Examine potential redundancy and select relevant analytical features.
-5. **Principal Component Analysis (PCA)** — Apply dimensionality reduction to suitable numerical features after appropriate scaling.
-6. **Visualization and Evaluation** — Visualize preprocessing results and compare data conditions before and after processing.
+1. **Data Understanding and Profiling**: Examine dataset structure, data types, missing values, duplicates, keys, and data granularity.
+2. **Data Cleaning**: Identify and handle data quality issues based on evidence and documented variable definitions.
+3. **Data Integration**: Integrate collision, vehicle, and casualty records while validating keys, relationships, and join cardinality.
+4. **Redundancy Analysis and Feature Selection**: Examine potential redundancy and select relevant analytical features.
+5. **Principal Component Analysis (PCA)**: Apply dimensionality reduction to suitable numerical features after appropriate scaling.
+6. **Visualization and Evaluation**: Visualize preprocessing results and compare data conditions before and after processing.
 
 Each stage includes validation checks to support reproducibility and maintain consistency throughout the pipeline.
 
